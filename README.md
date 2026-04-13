@@ -39,3 +39,6 @@ In this lab, I performed a man-in-the-middle (MITM) attack by exploiting the ARP
 
 ### TCP Packet Sniffing
 ![TCP Sniff](tcp_sniff.png)
+
+## Note
+This project was performed in a controlled lab environment for educational purposes only.

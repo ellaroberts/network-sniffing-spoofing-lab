@@ -32,8 +32,7 @@ In this lab, I performed a man-in-the-middle (MITM) attack by exploiting the ARP
 ## Sample Output
 
 ### ARP Spoofing Attack
-![ARP Attack](<img width="1117" height="532" alt="arp_attack png" src="https://github.com/user-attachments/assets/c725edf3-c125-4d3e-a84c-21febe11d510" />
-)
+![ARP Attack](arp_attack.png)
 
 ### ICMP Packet Sniffing
 ![ICMP Sniff](icmp_sniff.png)

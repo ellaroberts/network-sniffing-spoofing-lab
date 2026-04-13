@@ -30,4 +30,12 @@ In this lab, I performed a man-in-the-middle (MITM) attack by exploiting the ARP
 - Importance of secure protocols (HTTPS, SSH)
 
 ## Sample Output
-(Add your screenshots here)
+
+### ARP Spoofing Attack
+![ARP Attack](arp_attack.png)
+
+### ICMP Packet Sniffing
+![ICMP Sniff](icmp_sniff.png)
+
+### TCP Packet Sniffing
+![TCP Sniff](tcp_sniff.png)
